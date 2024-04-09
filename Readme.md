@@ -13,4 +13,3 @@ curl --location 'http://172.27.67.20:30806/product' \
 Get Product Details
  
 curl --location 'http://172.27.65.68:30806/product/2e61bcb3-cd20-4766-a654-2ef33744aea5'
-has context menu
